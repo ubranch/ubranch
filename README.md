@@ -1,11 +1,9 @@
-## Hi there 👋
-- 🔭 I’m currently freelancing
-- 🌱 I’m currently learning ts/dart/python/rust/go
-- 🤔 I’m looking for help with data science, devops
-- 💬 Ask me about web/machine learning/computer science/linux (i use arch btw)
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I've been in IT since I was five years old. (thank u dad)
-- 📫 How to reach me: unknown.branch@gmail.com
+## Hi 👋
+- 🔭 I'm currently studying.
+- 🌱 I am currently learning clang/rust/go
+- 💬 Ask me anything related to the tech world (I don't use arch by the way)
+- ⚡ Interesting fact: I've been in IT since I was five years old (thanks to my dad).
+- 📫 How to contact me: unknown.branch@gmail.com or @ubranch on social media
 
 
-Many of my projects are hosted on my self-hosted git server (based on 🍵gitea)
+Many of my projects are hosted on my own git server (based on 🍵gitea), so I can be passive on GitHub
