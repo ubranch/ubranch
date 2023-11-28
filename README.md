@@ -1,4 +1,4 @@
-## Hi 👋
+## Hi 👋 My name is Ilya Ismailov
 - 🔭 I'm currently studying.
 - 🌱 I am currently learning clang/rust/go
 - 💬 Ask me anything related to the tech world (I don't use arch by the way)
@@ -6,4 +6,6 @@
 - 📫 How to contact me: unknown.branch@gmail.com or @ubranch on social media
 
 
-Many of my projects are hosted on my own git server (based on 🍵gitea), so I can be passive on GitHub
+> here's some digits:
+> 
+[![wakatime](https://wakatime.com/badge/user/018be27b-3e8e-4e0f-a385-8496dfa7717b.svg)](https://wakatime.com/@018be27b-3e8e-4e0f-a385-8496dfa7717b)
