@@ -1,11 +1,14 @@
-## Hi 👋 My name is Ilya Ismailov
+## Me
 - 🔭 I'm currently studying.
-- 🌱 I am currently learning clang/rust/go
-- 💬 Ask me anything related to the tech world (I don't use arch by the way)
+- 🌱 I am currently learning *esrever engineering and low-level stuff.
+- 💬 Ask me anything related to the tech world. (I use arch btw)
 - ⚡ Interesting fact: I've been in IT since I was five years old (thanks to my dad).
-- 📫 How to contact me: unknown.branch@gmail.com or @ubranch on social media
-
-
+- 📫 mail: ilya@usa.com --- tg: [@ubranch](https://t.me/ubranch)
+## Stats
 > here's some digits:
 > 
 [![wakatime](https://wakatime.com/badge/user/018be27b-3e8e-4e0f-a385-8496dfa7717b.svg)](https://wakatime.com/@018be27b-3e8e-4e0f-a385-8496dfa7717b)
+
+>here's some icons:
+>
+![skills](https://skillicons.dev/icons?i=cpp,rust,c,go,nodejs,javascript,typescript,python&theme=dark)
