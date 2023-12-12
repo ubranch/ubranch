@@ -11,4 +11,4 @@
 
 >here's some icons:
 >
-![skills](https://skillicons.dev/icons?i=cpp,rust,c,go,nodejs,javascript,typescript,python&theme=dark)
+![skills](https://skillicons.dev/icons?i=cpp,rust,c,go,java,nodejs,javascript,typescript,python&theme=dark)
