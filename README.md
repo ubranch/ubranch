@@ -1,5 +1,5 @@
 ## Me
-- 🔭 I'm currently studying.
+- ⭐ I'm currently starring your repository.
 - 🌱 I am currently learning *esrever engineering and low-level stuff.
 - 💬 Ask me anything related to the tech world. (I use arch btw)
 - ⚡ Interesting fact: I've been in IT since I was five years old (thanks to my dad).
