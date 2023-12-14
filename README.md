@@ -3,7 +3,7 @@
 - 🌱 I am currently learning *esrever engineering and low-level stuff.
 - 💬 Ask me anything related to the tech world. (I use arch btw)
 - ⚡ Interesting fact: I've been in IT since I was five years old (thanks to my dad).
-- 📫 mail: ilya@usa.com --- tg: [@ubranch](https://t.me/ubranch)
+- 📫 mail: ubranch@usa.com  ---  tg: [@ubranch](https://t.me/ubranch)
 ## Stats
 > here's some digits:
 > 
