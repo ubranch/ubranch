@@ -1,9 +1,8 @@
 ## Me
-- ⭐ I'm currently starring your repository.
-- 🌱 I am currently learning *esrever engineering and low-level stuff.
-- 💬 Ask me anything related to the tech world. (I use arch btw)
-- ⛈️ Interesting fact: I've been in IT since I was five years old (thanks to my dad).
-- 📫 mail: ubranch@usa.com  ---  tg: [@ubranch](https://t.me/ubranch)
+- ⭐ Currently starring your repository.
+- 🌱 Busy learning reverse engineering and machine learning.
+- 💬 Ask me anything tech-related. (I use Arch, btw)
+- ⛈️ Fun fact: Been in IT since age 5 (thanks, Dad).
 ## Stats
 > here's some digits:
 > 
@@ -12,3 +11,4 @@
 >here's some icons:
 >
 ![skills](https://skillicons.dev/icons?i=cpp,rust,c,go,java,nodejs,javascript,typescript,python&theme=dark)
+> 📫 mail: ubranch@usa.com  ---  tg: [@ubranch](https://t.me/ubranch)
