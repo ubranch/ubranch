@@ -1,12 +1,10 @@
 こんにちは。
 
-- name
-
+- name  
 JP: 森岡 隼也  
 EN: Junya Morioka
 
-- Affiliation
-- 
+- Affiliation  
 JP: 明治大学 大学院 理工学研究科 情報科学専攻  
 EN: Meiji University, Graduate School of Science and Technology, Department of Computer Science
 
