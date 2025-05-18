@@ -6,15 +6,15 @@ Junya Morioka
 
 <div style="display: flex; flex-wrap: wrap; width: 100%;">
   <div style="width: 50%;">
-    <img src="https://github.com/mjun0812/mjun0812/raw/refs/heads/main/metrics_base.svg" alt="base">
+    <img src="https://github.com/mjun0812/mjun0812/raw/refs/heads/main/metrics_base.svg" alt="base" style="max-width: 100%;">
   </div>
   <div style="width: 50%;">
-    <img src="https://github.com/mjun0812/mjun0812/raw/refs/heads/main/metrics_languages.svg" alt="language">
+    <img src="https://github.com/mjun0812/mjun0812/raw/refs/heads/main/metrics_languages.svg" alt="language" style="max-width: 100%;">
   </div>
   <div style="width: 50%;">
-    <img src="https://github.com/mjun0812/mjun0812/raw/refs/heads/main/metrics_isocalendar.svg" alt="iso-calendar">
+    <img src="https://github.com/mjun0812/mjun0812/raw/refs/heads/main/metrics_isocalendar.svg" alt="iso-calendar" style="max-width: 100%;">
   </div>
   <div style="width: 50%;">
-    <img src="https://github.com/mjun0812/mjun0812/raw/refs/heads/main/metrics_calendar.svg" alt="calendar">
+    <img src="https://github.com/mjun0812/mjun0812/raw/refs/heads/main/metrics_calendar.svg" alt="calendar" style="max-width: 100%;">
   </div>
 </div>
