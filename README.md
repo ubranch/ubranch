@@ -4,13 +4,5 @@ Junya Morioka
 
 [About Me](https://mjunya.com/about/)  
 
-<table border="0">
-  <tr>
-    <td><img src="https://github.com/mjun0812/mjun0812/raw/refs/heads/main/metrics_base.svg" alt="base"></td>
-    <td><img src="https://github.com/mjun0812/mjun0812/raw/refs/heads/main/metrics_languages.svg" alt="language"></td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/mjun0812/mjun0812/raw/refs/heads/main/metrics_isocalendar.svg" alt="iso-calendar"></td>
-    <td><img src="https://github.com/mjun0812/mjun0812/raw/refs/heads/main/metrics_calendar.svg" alt="calendar"></td>
-  </tr>
-</table>
+![base](https://github.com/mjun0812/mjun0812/raw/refs/heads/main/metrics_base.svg)![language](https://github.com/mjun0812/mjun0812/raw/refs/heads/main/metrics_languages.svg)  
+![iso-calendar](https://github.com/mjun0812/mjun0812/raw/refs/heads/main/metrics_isocalendar.svg)![calendar](https://github.com/mjun0812/mjun0812/raw/refs/heads/main/metrics_calendar.svg)
