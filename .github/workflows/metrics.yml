@@ -65,3 +65,13 @@ jobs:
           base: ""
           plugin_calendar: yes
           plugin_calendar_limit: 3
+
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics_sponsors.svg
+          token: ${{ secrets.MY_GITHUB_TOKEN }}
+          template: classic
+          base: ""
+          plugin_sponsors: yes
+          plugin_sponsors_sections: goal, about, list
+          plugin_sponsors_past: yes

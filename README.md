@@ -1,11 +1,16 @@
-こんにちは。
+こんにちは! Hello!
 
-- name  
-JP: 森岡 隼也  
-EN: Junya Morioka
+Junya Morioka
 
-[About ME](https://mjunya.com/about/)
+[About Me](https://mjunya.com/about/)  
 
-[![](https://raw.githubusercontent.com/mjun0812/mjun0812/main/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/mjun0812/mjun0812/main/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/mjun0812/mjun0812/main/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/mjun0812/mjun0812/main/profile-summary-card-output/github/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/mjun0812/mjun0812/main/profile-summary-card-output/github/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<table>
+  <tr>
+    <td><img src="https://github.com/mjun0812/mjun0812/raw/refs/heads/main/metrics_base.svg" alt="base"></td>
+    <td><img src="https://github.com/mjun0812/mjun0812/raw/refs/heads/main/metrics_languages.svg" alt="language"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/mjun0812/mjun0812/raw/refs/heads/main/metrics_isocalendar.svg" alt="iso-calendar"></td>
+    <td><img src="https://github.com/mjun0812/mjun0812/raw/refs/heads/main/metrics_calendar.svg" alt="calendar"></td>
+  </tr>
+</table>
