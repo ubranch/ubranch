@@ -2,7 +2,7 @@ name: GitHub-Metrics
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 1 * * *"
   workflow_dispatch:
 
 jobs:
@@ -16,7 +16,52 @@ jobs:
           token: ${{ secrets.MY_GITHUB_TOKEN }}
           template: classic
           base: header, activity, community, repositories, metadata
+
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics_languages.svg
+          token: ${{ secrets.MY_GITHUB_TOKEN }}
+          template: classic
+          base: ""
           plugin_languages: yes
           plugin_languages_sections: most-used, recently-used
-          plugin_languages_recent_load: 700
+          plugin_languages_details: bytes-size, percentage, lines
+          plugin_languages_recent_load: 500
           plugin_languages_recent_days: 30
+
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics_isocalendar.svg
+          token: ${{ secrets.MY_GITHUB_TOKEN }}
+          template: classic
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics_topics.svg
+          token: ${{ secrets.MY_GITHUB_TOKEN }}
+          template: classic
+          base: ""
+          plugin_topics: yes
+          plugin_topics_limit: 15
+
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics_topics_icons.svg
+          token: ${{ secrets.MY_GITHUB_TOKEN }}
+          template: classic
+          base: ""
+          plugin_topics: yes
+          plugin_topics_limit: 15
+          plugin_topics_mode: icons
+
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics_calendar.svg
+          token: ${{ secrets.MY_GITHUB_TOKEN }}
+          template: classic
+          base: ""
+          plugin_calendar: yes
+          plugin_calendar_limit: 3
