@@ -11,6 +11,7 @@ jobs:
     name: metrics
     steps:
       - uses: lowlighter/metrics@latest
+        continue-on-error: true
         with:
           filename: metrics_base.svg
           token: ${{ secrets.MY_GITHUB_TOKEN }}
@@ -18,6 +19,7 @@ jobs:
           base: header, activity, community, repositories, metadata
 
       - uses: lowlighter/metrics@latest
+        continue-on-error: true
         with:
           filename: metrics_languages.svg
           token: ${{ secrets.MY_GITHUB_TOKEN }}
@@ -30,6 +32,7 @@ jobs:
           plugin_languages_recent_days: 30
 
       - uses: lowlighter/metrics@latest
+        continue-on-error: true
         with:
           filename: metrics_isocalendar.svg
           token: ${{ secrets.MY_GITHUB_TOKEN }}
@@ -39,6 +42,7 @@ jobs:
           plugin_isocalendar_duration: full-year
 
       - uses: lowlighter/metrics@latest
+        continue-on-error: true
         with:
           filename: metrics_topics.svg
           token: ${{ secrets.MY_GITHUB_TOKEN }}
@@ -48,6 +52,7 @@ jobs:
           plugin_topics_limit: 15
 
       - uses: lowlighter/metrics@latest
+        continue-on-error: true
         with:
           filename: metrics_topics_icons.svg
           token: ${{ secrets.MY_GITHUB_TOKEN }}
@@ -58,6 +63,7 @@ jobs:
           plugin_topics_mode: icons
 
       - uses: lowlighter/metrics@latest
+        continue-on-error: true
         with:
           filename: metrics_calendar.svg
           token: ${{ secrets.MY_GITHUB_TOKEN }}
@@ -67,6 +73,7 @@ jobs:
           plugin_calendar_limit: 3
 
       - uses: lowlighter/metrics@latest
+        continue-on-error: true
         with:
           filename: metrics_sponsors.svg
           token: ${{ secrets.MY_GITHUB_TOKEN }}
