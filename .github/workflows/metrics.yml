@@ -10,7 +10,8 @@ jobs:
     runs-on: ubuntu-latest
     name: metrics
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: metrics_base
+        uses: lowlighter/metrics@latest
         continue-on-error: true
         with:
           filename: metrics_base.svg
@@ -18,7 +19,8 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
 
-      - uses: lowlighter/metrics@latest
+      - name: metrics_languages
+        uses: lowlighter/metrics@latest
         continue-on-error: true
         with:
           filename: metrics_languages.svg
@@ -31,7 +33,8 @@ jobs:
           plugin_languages_recent_load: 500
           plugin_languages_recent_days: 30
 
-      - uses: lowlighter/metrics@latest
+      - name: metrics_isocalendar
+        uses: lowlighter/metrics@latest
         continue-on-error: true
         with:
           filename: metrics_isocalendar.svg
@@ -41,7 +44,8 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
-      - uses: lowlighter/metrics@latest
+      - name: metrics_topics
+        uses: lowlighter/metrics@latest
         continue-on-error: true
         with:
           filename: metrics_topics.svg
@@ -51,7 +55,8 @@ jobs:
           plugin_topics: yes
           plugin_topics_limit: 15
 
-      - uses: lowlighter/metrics@latest
+      - name: metrics_topics
+        uses: lowlighter/metrics@latest
         continue-on-error: true
         with:
           filename: metrics_topics_icons.svg
@@ -62,7 +67,8 @@ jobs:
           plugin_topics_limit: 15
           plugin_topics_mode: icons
 
-      - uses: lowlighter/metrics@latest
+      - name: metrics_calendar
+        uses: lowlighter/metrics@latest
         continue-on-error: true
         with:
           filename: metrics_calendar.svg
@@ -72,7 +78,8 @@ jobs:
           plugin_calendar: yes
           plugin_calendar_limit: 3
 
-      - uses: lowlighter/metrics@latest
+      - name: metrics_sponsors
+        uses: lowlighter/metrics@latest
         continue-on-error: true
         with:
           filename: metrics_sponsors.svg
