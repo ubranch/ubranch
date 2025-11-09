@@ -20,7 +20,7 @@ jobs:
           base: header, activity, community, repositories, metadata
 
       - name: metrics_languages
-        uses: lowlighter/metrics@latest
+        uses: gh-metrics/metrics@latest
         continue-on-error: true
         with:
           filename: metrics_languages.svg
