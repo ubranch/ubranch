@@ -10,14 +10,19 @@ jobs:
     runs-on: ubuntu-latest
     name: metrics
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: metrics_base
+        uses: lowlighter/metrics@latest
+        continue-on-error: true
         with:
           filename: metrics_base.svg
           token: ${{ secrets.MY_GITHUB_TOKEN }}
           template: classic
           base: header, activity, community, repositories, metadata
+          committer_message: "update ${filename} - [skip github action]"
 
-      - uses: lowlighter/metrics@latest
+      - name: metrics_languages
+        uses: stalomeow/metrics@projects-v2
+        continue-on-error: true
         with:
           filename: metrics_languages.svg
           token: ${{ secrets.MY_GITHUB_TOKEN }}
@@ -28,8 +33,11 @@ jobs:
           plugin_languages_details: bytes-size, percentage, lines
           plugin_languages_recent_load: 500
           plugin_languages_recent_days: 30
+          committer_message: "update ${filename} - [skip github action]"
 
-      - uses: lowlighter/metrics@latest
+      - name: metrics_isocalendar
+        uses: lowlighter/metrics@latest
+        continue-on-error: true
         with:
           filename: metrics_isocalendar.svg
           token: ${{ secrets.MY_GITHUB_TOKEN }}
@@ -37,8 +45,11 @@ jobs:
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+          committer_message: "update ${filename} - [skip github action]"
 
-      - uses: lowlighter/metrics@latest
+      - name: metrics_topics
+        uses: lowlighter/metrics@latest
+        continue-on-error: true
         with:
           filename: metrics_topics.svg
           token: ${{ secrets.MY_GITHUB_TOKEN }}
@@ -46,8 +57,11 @@ jobs:
           base: ""
           plugin_topics: yes
           plugin_topics_limit: 15
+          committer_message: "update ${filename} - [skip github action]"
 
-      - uses: lowlighter/metrics@latest
+      - name: metrics_topics_icons
+        uses: lowlighter/metrics@latest
+        continue-on-error: true
         with:
           filename: metrics_topics_icons.svg
           token: ${{ secrets.MY_GITHUB_TOKEN }}
@@ -56,8 +70,11 @@ jobs:
           plugin_topics: yes
           plugin_topics_limit: 15
           plugin_topics_mode: icons
+          committer_message: "update ${filename} - [skip github action]"
 
-      - uses: lowlighter/metrics@latest
+      - name: metrics_calendar
+        uses: lowlighter/metrics@latest
+        continue-on-error: true
         with:
           filename: metrics_calendar.svg
           token: ${{ secrets.MY_GITHUB_TOKEN }}
@@ -65,8 +82,11 @@ jobs:
           base: ""
           plugin_calendar: yes
           plugin_calendar_limit: 3
+          committer_message: "update ${filename} - [skip github action]"
 
-      - uses: lowlighter/metrics@latest
+      - name: metrics_sponsors
+        uses: lowlighter/metrics@latest
+        continue-on-error: true
         with:
           filename: metrics_sponsors.svg
           token: ${{ secrets.MY_GITHUB_TOKEN }}
@@ -75,3 +95,4 @@ jobs:
           plugin_sponsors: yes
           plugin_sponsors_sections: goal, about, list
           plugin_sponsors_past: yes
+          committer_message: "update ${filename} - [skip github action]"
