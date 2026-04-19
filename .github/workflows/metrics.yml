@@ -20,7 +20,7 @@ jobs:
           base: header, activity, community, repositories, metadata
 
       - name: metrics_languages
-        uses: stalomeow/metrics@projects-v2
+        uses: gh-metrics/metrics@master
         continue-on-error: true
         with:
           filename: metrics_languages.svg
