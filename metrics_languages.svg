@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="87.98851114664616" height="8" fill="#a91e50"/>
-                    <rect mask="url(#languages-bar)" x="87.98851114664616" y="0" width="87.72487191272486" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="175.713383059371" y="0" width="78.37611035289329" height="8" fill="#3D6117"/>
-                    <rect mask="url(#languages-bar)" x="254.08949341226432" y="0" width="71.14640238420301" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="325.23589579646733" y="0" width="60.064634298175285" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="385.30053009464257" y="0" width="55.6245651174724" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="440.92509521211497" y="0" width="10.490737056578123" height="8" fill="#3A4E3A"/>
-                    <rect mask="url(#languages-bar)" x="451.41583226869307" y="0" width="8.584167731306849" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="86.6219528815145" height="8" fill="#a91e50"/>
+                    <rect mask="url(#languages-bar)" x="86.6219528815145" y="0" width="86.3624082545985" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="172.984361136113" y="0" width="77.15884323476794" height="8" fill="#3D6117"/>
+                    <rect mask="url(#languages-bar)" x="250.14320437088097" y="0" width="70.04142057526576" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="320.1846249461467" y="0" width="59.131764524921806" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="379.31638947106853" y="0" width="54.760654497608094" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="434.0770439686766" y="0" width="15.595151649081538" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="449.6721956177581" y="0" width="10.32780438224185" height="8" fill="#3A4E3A"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -41,7 +41,7 @@
                             </div>
                             <small>
                                 <div>2.42 MB</div>
-                                <div>19.13%</div>
+                                <div>18.83%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -53,7 +53,7 @@
                             </div>
                             <small>
                                 <div>2.15 MB</div>
-                                <div>17.04%</div>
+                                <div>16.77%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -65,19 +65,19 @@
                             </div>
                             <small>
                                 <div>1.65 MB</div>
-                                <div>13.06%</div>
+                                <div>12.85%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#3A4E3A" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#00ADD8" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Cuda
+                                Go
                             </div>
                             <small>
-                                <div>288 kB</div>
-                                <div>2.28%</div>
+                                <div>435 kB</div>
+                                <div>3.39%</div>
                             </small>
                         </div>
                     </section>
@@ -91,7 +91,7 @@
                             </div>
                             <small>
                                 <div>2.41 MB</div>
-                                <div>19.07%</div>
+                                <div>18.77%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -103,7 +103,7 @@
                             </div>
                             <small>
                                 <div>1.95 MB</div>
-                                <div>15.47%</div>
+                                <div>15.23%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -115,19 +115,19 @@
                             </div>
                             <small>
                                 <div>1.53 MB</div>
-                                <div>12.09%</div>
+                                <div>11.9%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#00ADD8" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#3A4E3A" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Go
+                                Cuda
                             </div>
                             <small>
-                                <div>235 kB</div>
-                                <div>1.87%</div>
+                                <div>288 kB</div>
+                                <div>2.25%</div>
                             </small>
                         </div>
                     </section>
@@ -135,7 +135,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 39.9kb of code in 17 edited files across 17 commits over last 0 days</small>
+                <small>estimation from 40.5kb of code in 20 edited files across 19 commits over last 0 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
