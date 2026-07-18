@@ -22,13 +22,3 @@
 ```
 
     
-
----
-
-![](./2-most-commit-language.svg)
-
-```
-![](https://raw.githubusercontent.com/mjun0812/mjun0812/main/profile-summary-card-output/date_night/2-most-commit-language.svg)
-```
-
-    
