@@ -45,19 +45,19 @@
           </text>
           <g data-block="calendar-grid">
             <rect class="day" fill="#30a14e" x="253" y="38" width="11" height="11" rx="2" ry="2"/>
-            <rect class="day" fill="#30a14e" x="268" y="38" width="11" height="11" rx="2" ry="2"/>
-            <rect class="day" fill="#40c463" x="283" y="38" width="11" height="11" rx="2" ry="2"/>
-            <rect class="day" fill="#9be9a8" x="298" y="38" width="11" height="11" rx="2" ry="2"/>
-            <rect class="day" fill="#40c463" x="313" y="38" width="11" height="11" rx="2" ry="2"/>
-            <rect class="day" fill="#9be9a8" x="328" y="38" width="11" height="11" rx="2" ry="2"/>
-            <rect class="day" fill="#40c463" x="343" y="38" width="11" height="11" rx="2" ry="2"/>
+            <rect class="day" fill="#40c463" x="268" y="38" width="11" height="11" rx="2" ry="2"/>
+            <rect class="day" fill="#9be9a8" x="283" y="38" width="11" height="11" rx="2" ry="2"/>
+            <rect class="day" fill="#40c463" x="298" y="38" width="11" height="11" rx="2" ry="2"/>
+            <rect class="day" fill="#9be9a8" x="313" y="38" width="11" height="11" rx="2" ry="2"/>
+            <rect class="day" fill="#40c463" x="328" y="38" width="11" height="11" rx="2" ry="2"/>
+            <rect class="day" fill="#9be9a8" x="343" y="38" width="11" height="11" rx="2" ry="2"/>
             <rect class="day" fill="#9be9a8" x="358" y="38" width="11" height="11" rx="2" ry="2"/>
             <rect class="day" fill="#9be9a8" x="373" y="38" width="11" height="11" rx="2" ry="2"/>
-            <rect class="day" fill="#9be9a8" x="388" y="38" width="11" height="11" rx="2" ry="2"/>
-            <rect class="day" fill="#216e39" x="403" y="38" width="11" height="11" rx="2" ry="2"/>
-            <rect class="day" fill="#9be9a8" x="418" y="38" width="11" height="11" rx="2" ry="2"/>
-            <rect class="day" fill="#40c463" x="433" y="38" width="11" height="11" rx="2" ry="2"/>
-            <rect class="day" fill="#ebedf0" x="448" y="38" width="11" height="11" rx="2" ry="2"/>
+            <rect class="day" fill="#216e39" x="388" y="38" width="11" height="11" rx="2" ry="2"/>
+            <rect class="day" fill="#9be9a8" x="403" y="38" width="11" height="11" rx="2" ry="2"/>
+            <rect class="day" fill="#40c463" x="418" y="38" width="11" height="11" rx="2" ry="2"/>
+            <rect class="day" fill="#9be9a8" x="433" y="38" width="11" height="11" rx="2" ry="2"/>
+            <rect class="day" fill="#9be9a8" x="448" y="38" width="11" height="11" rx="2" ry="2"/>
           </g>
           <g transform="translate(253,56)" fill="#959da5">
             <svg width="16" height="16" viewBox="0 0 16 16" class="octicon">
@@ -96,7 +96,7 @@
           </svg>
         </g>
         <text x="37" y="62" font-size="14" fill="#777777">
-          134 Pull requests reviewed
+          135 Pull requests reviewed
         </text>
         <g transform="translate(13,70)" fill="#959da5">
           <svg viewBox="0 0 16 16" width="16" height="16">
@@ -121,7 +121,7 @@
           </svg>
         </g>
         <text x="37" y="122" font-size="14" fill="#777777">
-          506 issue comments
+          507 issue comments
         </text>
         <g transform="translate(253,9)" fill="#959da5">
           <svg viewBox="0 0 16 16" width="16" height="16">
@@ -256,7 +256,7 @@
           </svg>
         </g>
         <text x="277" y="122" font-size="14" fill="#777777">
-          4.9k views in last two weeks
+          4.7k views in last two weeks
         </text>
       </svg>
     </g>
@@ -268,7 +268,7 @@
           These metrics include private contributions
         </text>
         <text x="474" y="31" font-size="10" fill="#666666" font-style="italic" text-anchor="end">
-          Last updated 2026-07-22T01:35:03Z with mjun0812/github-metrics@dev
+          Last updated 2026-07-23T01:35:37Z with mjun0812/github-metrics@dev
         </text>
       </svg>
     </g>
