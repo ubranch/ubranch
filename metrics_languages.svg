@@ -149,7 +149,7 @@
           Recently used languages
         </text>
         <text x="240" y="193" font-size="11" fill="#666666" text-anchor="middle">
-          activity from 144 repositories analysed over last 30 days
+          activity from 147 repositories analysed over last 30 days
         </text>
         <g transform="translate(10,207)">
           <svg class="bar" width="460" height="8" role="img" aria-label="Recently used languages distribution">
@@ -161,9 +161,9 @@
             </mask>
             <rect mask="url(#languages-bar-recent)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             <g class="languages-recent">
-              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="0.00" y="0" width="428.51" height="8" fill="#3572A5" data-language="Python"/>
-              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="428.51" y="0" width="28.93" height="8" fill="#00ADD8" data-language="Go"/>
-              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="457.44" y="0" width="2.52" height="8" fill="#89e051" data-language="Shell"/>
+              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="0.00" y="0" width="429.46" height="8" fill="#3572A5" data-language="Python"/>
+              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="429.46" y="0" width="29.03" height="8" fill="#00ADD8" data-language="Go"/>
+              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="458.49" y="0" width="1.46" height="8" fill="#89e051" data-language="Shell"/>
               <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="459.96" y="0" width="0.04" height="8" fill="#012456" data-language="PowerShell"/>
             </g>
           </svg>
@@ -178,7 +178,7 @@
             Python
           </text>
           <text x="232" y="236" font-size="11" fill="#666666" text-anchor="end">
-            37.6 kB  93.2%
+            37.5 kB  93.4%
           </text>
         </g>
         <g class="language details" data-language="Shell">
@@ -191,7 +191,7 @@
             Shell
           </text>
           <text x="232" y="256" font-size="11" fill="#666666" text-anchor="end">
-            226 B  0.5%
+            131 B  0.3%
           </text>
         </g>
         <g class="language details" data-language="Go">
