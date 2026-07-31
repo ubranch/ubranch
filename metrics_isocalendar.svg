@@ -1978,15 +1978,15 @@
                 <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.21 0,1.21 z"/>
                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.21 1.7,2.21 z"/>
               </g>
-              <g transform="translate(-6.80, 9.83)">
+              <g transform="translate(-6.80, 9.59)">
                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.17 0,1.17 z"/>
-                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.17 1.7,2.17 z"/>
+                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.41 0,1.41 z"/>
+                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.41 1.7,2.41 z"/>
               </g>
-              <g transform="translate(-8.50, 11.00)">
-                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.00 0,1.00 z"/>
-                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.00 1.7,2.00 z"/>
+              <g transform="translate(-8.50, 10.48)">
+                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.52 0,1.52 z"/>
+                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.52 1.7,2.52 z"/>
               </g>
               <g transform="translate(-10.20, 12.00)">
                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -2010,7 +2010,7 @@
           </svg>
         </g>
         <text x="277" y="70" font-size="14" fill="#777777">
-          Current streak 78 days
+          Current streak 79 days
         </text>
         <g transform="translate(253,78)" fill="#959da5">
           <svg viewBox="0 0 16 16" width="16" height="16" aria-hidden="true">
@@ -2018,7 +2018,7 @@
           </svg>
         </g>
         <text x="277" y="90" font-size="14" fill="#777777">
-          Best streak 78 days
+          Best streak 79 days
         </text>
         <g transform="translate(253,105)" fill="#959da5">
           <svg viewBox="0 0 16 16" width="16" height="16" aria-hidden="true">
@@ -2042,7 +2042,7 @@
           </svg>
         </g>
         <text x="277" y="158" font-size="14" fill="#777777">
-          Average per day at ~17.89
+          Average per day at ~17.94
         </text>
       </svg>
     </g>
