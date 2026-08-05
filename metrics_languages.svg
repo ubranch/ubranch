@@ -149,7 +149,7 @@
           Recently used languages
         </text>
         <text x="240" y="193" font-size="11" fill="#666666" text-anchor="middle">
-          activity from 59 repositories analysed over last 30 days
+          activity from 66 repositories analysed over last 30 days
         </text>
         <g transform="translate(10,207)">
           <svg class="bar" width="460" height="8" role="img" aria-label="Recently used languages distribution">
@@ -161,13 +161,13 @@
             </mask>
             <rect mask="url(#languages-bar-recent)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             <g class="languages-recent">
-              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="0.00" y="0" width="232.53" height="8" fill="#f34b7d" data-language="C++"/>
-              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="232.53" y="0" width="97.80" height="8" fill="#3572A5" data-language="Python"/>
-              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="330.33" y="0" width="63.62" height="8" fill="#89e051" data-language="Shell"/>
-              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="393.95" y="0" width="42.42" height="8" fill="#e34c26" data-language="HTML"/>
-              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="436.37" y="0" width="21.42" height="8" fill="#555555" data-language="C"/>
-              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="457.78" y="0" width="2.05" height="8" fill="#427819" data-language="Makefile"/>
-              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="459.83" y="0" width="0.17" height="8" fill="#00ADD8" data-language="Go"/>
+              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="0.00" y="0" width="269.00" height="8" fill="#f34b7d" data-language="C++"/>
+              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="269.00" y="0" width="70.19" height="8" fill="#3572A5" data-language="Python"/>
+              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="339.18" y="0" width="59.34" height="8" fill="#89e051" data-language="Shell"/>
+              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="398.53" y="0" width="51.39" height="8" fill="#e34c26" data-language="HTML"/>
+              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="449.92" y="0" width="7.40" height="8" fill="#555555" data-language="C"/>
+              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="457.31" y="0" width="2.48" height="8" fill="#427819" data-language="Makefile"/>
+              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="459.80" y="0" width="0.20" height="8" fill="#00ADD8" data-language="Go"/>
             </g>
           </svg>
         </g>
@@ -181,7 +181,7 @@
             C++
           </text>
           <text x="232" y="236" font-size="11" fill="#666666" text-anchor="end">
-            5.4 kB  50.6%
+            5.2 kB  58.5%
           </text>
         </g>
         <g class="language details" data-language="Shell">
@@ -194,7 +194,7 @@
             Shell
           </text>
           <text x="232" y="256" font-size="11" fill="#666666" text-anchor="end">
-            1.5 kB  13.8%
+            1.1 kB  12.9%
           </text>
         </g>
         <g class="language details" data-language="C">
@@ -207,7 +207,7 @@
             C
           </text>
           <text x="232" y="276" font-size="11" fill="#666666" text-anchor="end">
-            512 B  4.7%
+            146 B  1.6%
           </text>
         </g>
         <g class="language details" data-language="Go">
@@ -233,7 +233,7 @@
             Python
           </text>
           <text x="472" y="236" font-size="11" fill="#666666" text-anchor="end">
-            2.3 kB  21.3%
+            1.4 kB  15.3%
           </text>
         </g>
         <g class="language details" data-language="HTML">
@@ -246,7 +246,7 @@
             HTML
           </text>
           <text x="472" y="256" font-size="11" fill="#666666" text-anchor="end">
-            1014 B  9.2%
+            1014 B  11.2%
           </text>
         </g>
         <g class="language details" data-language="Makefile">
@@ -259,7 +259,7 @@
             Makefile
           </text>
           <text x="472" y="276" font-size="11" fill="#666666" text-anchor="end">
-            49 B  0.4%
+            49 B  0.5%
           </text>
         </g>
       </svg>
