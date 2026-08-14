@@ -54,9 +54,9 @@
             <rect class="day" fill="#9be9a8" x="358" y="38" width="11" height="11" rx="2" ry="2"/>
             <rect class="day" fill="#9be9a8" x="373" y="38" width="11" height="11" rx="2" ry="2"/>
             <rect class="day" fill="#9be9a8" x="388" y="38" width="11" height="11" rx="2" ry="2"/>
-            <rect class="day" fill="#9be9a8" x="403" y="38" width="11" height="11" rx="2" ry="2"/>
-            <rect class="day" fill="#40c463" x="418" y="38" width="11" height="11" rx="2" ry="2"/>
-            <rect class="day" fill="#216e39" x="433" y="38" width="11" height="11" rx="2" ry="2"/>
+            <rect class="day" fill="#40c463" x="403" y="38" width="11" height="11" rx="2" ry="2"/>
+            <rect class="day" fill="#216e39" x="418" y="38" width="11" height="11" rx="2" ry="2"/>
+            <rect class="day" fill="#9be9a8" x="433" y="38" width="11" height="11" rx="2" ry="2"/>
             <rect class="day" fill="#9be9a8" x="448" y="38" width="11" height="11" rx="2" ry="2"/>
           </g>
           <g transform="translate(253,56)" fill="#959da5">
@@ -162,7 +162,7 @@
           </svg>
         </g>
         <text x="277" y="102" font-size="14" fill="#777777">
-          Starred 337 repositories
+          Starred 338 repositories
         </text>
         <g transform="translate(253,110)" fill="#959da5">
           <svg viewBox="0 0 16 16" width="16" height="16">
@@ -268,7 +268,7 @@
           These metrics include private contributions
         </text>
         <text x="474" y="31" font-size="10" fill="#666666" font-style="italic" text-anchor="end">
-          Last updated 2026-08-13T03:24:24Z with mjun0812/github-metrics@dev
+          Last updated 2026-08-14T03:22:22Z with mjun0812/github-metrics@dev
         </text>
       </svg>
     </g>
