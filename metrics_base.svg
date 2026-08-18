@@ -55,8 +55,8 @@
             <rect class="day" fill="#9be9a8" x="373" y="38" width="11" height="11" rx="2" ry="2"/>
             <rect class="day" fill="#9be9a8" x="388" y="38" width="11" height="11" rx="2" ry="2"/>
             <rect class="day" fill="#9be9a8" x="403" y="38" width="11" height="11" rx="2" ry="2"/>
-            <rect class="day" fill="#9be9a8" x="418" y="38" width="11" height="11" rx="2" ry="2"/>
-            <rect class="day" fill="#216e39" x="433" y="38" width="11" height="11" rx="2" ry="2"/>
+            <rect class="day" fill="#216e39" x="418" y="38" width="11" height="11" rx="2" ry="2"/>
+            <rect class="day" fill="#9be9a8" x="433" y="38" width="11" height="11" rx="2" ry="2"/>
             <rect class="day" fill="#9be9a8" x="448" y="38" width="11" height="11" rx="2" ry="2"/>
           </g>
           <g transform="translate(253,56)" fill="#959da5">
@@ -96,7 +96,7 @@
           </svg>
         </g>
         <text x="37" y="62" font-size="14" fill="#777777">
-          144 Pull requests reviewed
+          145 Pull requests reviewed
         </text>
         <g transform="translate(13,70)" fill="#959da5">
           <svg viewBox="0 0 16 16" width="16" height="16">
@@ -121,7 +121,7 @@
           </svg>
         </g>
         <text x="37" y="122" font-size="14" fill="#777777">
-          637 issue comments
+          638 issue comments
         </text>
         <g transform="translate(253,9)" fill="#959da5">
           <svg viewBox="0 0 16 16" width="16" height="16">
@@ -162,7 +162,7 @@
           </svg>
         </g>
         <text x="277" y="102" font-size="14" fill="#777777">
-          Starred 339 repositories
+          Starred 340 repositories
         </text>
         <g transform="translate(253,110)" fill="#959da5">
           <svg viewBox="0 0 16 16" width="16" height="16">
@@ -268,7 +268,7 @@
           These metrics include private contributions
         </text>
         <text x="474" y="31" font-size="10" fill="#666666" font-style="italic" text-anchor="end">
-          Last updated 2026-08-17T02:17:36Z with mjun0812/github-metrics@dev
+          Last updated 2026-08-18T02:13:14Z with mjun0812/github-metrics@dev
         </text>
       </svg>
     </g>
