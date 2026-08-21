@@ -52,11 +52,11 @@
             <rect class="day" fill="#9be9a8" x="328" y="38" width="11" height="11" rx="2" ry="2"/>
             <rect class="day" fill="#9be9a8" x="343" y="38" width="11" height="11" rx="2" ry="2"/>
             <rect class="day" fill="#9be9a8" x="358" y="38" width="11" height="11" rx="2" ry="2"/>
-            <rect class="day" fill="#9be9a8" x="373" y="38" width="11" height="11" rx="2" ry="2"/>
-            <rect class="day" fill="#40c463" x="388" y="38" width="11" height="11" rx="2" ry="2"/>
+            <rect class="day" fill="#40c463" x="373" y="38" width="11" height="11" rx="2" ry="2"/>
+            <rect class="day" fill="#9be9a8" x="388" y="38" width="11" height="11" rx="2" ry="2"/>
             <rect class="day" fill="#9be9a8" x="403" y="38" width="11" height="11" rx="2" ry="2"/>
-            <rect class="day" fill="#9be9a8" x="418" y="38" width="11" height="11" rx="2" ry="2"/>
-            <rect class="day" fill="#216e39" x="433" y="38" width="11" height="11" rx="2" ry="2"/>
+            <rect class="day" fill="#216e39" x="418" y="38" width="11" height="11" rx="2" ry="2"/>
+            <rect class="day" fill="#9be9a8" x="433" y="38" width="11" height="11" rx="2" ry="2"/>
             <rect class="day" fill="#9be9a8" x="448" y="38" width="11" height="11" rx="2" ry="2"/>
           </g>
           <g transform="translate(253,56)" fill="#959da5">
@@ -256,7 +256,7 @@
           </svg>
         </g>
         <text x="277" y="122" font-size="14" fill="#777777">
-          5.2k views in last two weeks
+          5k views in last two weeks
         </text>
       </svg>
     </g>
@@ -268,7 +268,7 @@
           These metrics include private contributions
         </text>
         <text x="474" y="31" font-size="10" fill="#666666" font-style="italic" text-anchor="end">
-          Last updated 2026-08-20T01:30:36Z with mjun0812/github-metrics@dev
+          Last updated 2026-08-21T01:31:02Z with mjun0812/github-metrics@dev
         </text>
       </svg>
     </g>
