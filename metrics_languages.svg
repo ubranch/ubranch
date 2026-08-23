@@ -149,7 +149,7 @@
           Recently used languages
         </text>
         <text x="240" y="193" font-size="11" fill="#666666" text-anchor="middle">
-          activity from 80 repositories analysed over last 30 days
+          activity from 83 repositories analysed over last 30 days
         </text>
         <g transform="translate(10,207)">
           <svg class="bar" width="460" height="8" role="img" aria-label="Recently used languages distribution">
@@ -161,12 +161,12 @@
             </mask>
             <rect mask="url(#languages-bar-recent)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             <g class="languages-recent">
-              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="0.00" y="0" width="219.44" height="8" fill="#89e051" data-language="Shell"/>
-              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="219.44" y="0" width="130.17" height="8" fill="#f1e05a" data-language="JavaScript"/>
-              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="349.61" y="0" width="47.91" height="8" fill="#3572A5" data-language="Python"/>
-              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="397.52" y="0" width="40.69" height="8" fill="#f34b7d" data-language="C++"/>
-              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="438.20" y="0" width="13.02" height="8" fill="#e34c26" data-language="HTML"/>
-              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="451.23" y="0" width="8.77" height="8" fill="#000080" data-language="Lua"/>
+              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="0.00" y="0" width="215.49" height="8" fill="#89e051" data-language="Shell"/>
+              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="215.49" y="0" width="132.97" height="8" fill="#f1e05a" data-language="JavaScript"/>
+              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="348.46" y="0" width="48.94" height="8" fill="#3572A5" data-language="Python"/>
+              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="397.41" y="0" width="40.33" height="8" fill="#f34b7d" data-language="C++"/>
+              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="437.73" y="0" width="13.30" height="8" fill="#e34c26" data-language="HTML"/>
+              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="451.04" y="0" width="8.96" height="8" fill="#000080" data-language="Lua"/>
             </g>
           </svg>
         </g>
@@ -180,7 +180,7 @@
             Shell
           </text>
           <text x="232" y="236" font-size="11" fill="#666666" text-anchor="end">
-            3.2 kB  47.7%
+            3.1 kB  46.8%
           </text>
         </g>
         <g class="language details" data-language="Python">
@@ -193,7 +193,7 @@
             Python
           </text>
           <text x="232" y="256" font-size="11" fill="#666666" text-anchor="end">
-            710 B  10.4%
+            710 B  10.6%
           </text>
         </g>
         <g class="language details" data-language="HTML">
@@ -206,7 +206,7 @@
             HTML
           </text>
           <text x="232" y="276" font-size="11" fill="#666666" text-anchor="end">
-            193 B  2.8%
+            193 B  2.9%
           </text>
         </g>
         <g class="language details" data-language="JavaScript">
@@ -219,7 +219,7 @@
             JavaScript
           </text>
           <text x="472" y="236" font-size="11" fill="#666666" text-anchor="end">
-            1.9 kB  28.3%
+            1.9 kB  28.9%
           </text>
         </g>
         <g class="language details" data-language="C++">
@@ -232,7 +232,7 @@
             C++
           </text>
           <text x="472" y="256" font-size="11" fill="#666666" text-anchor="end">
-            603 B  8.8%
+            585 B  8.8%
           </text>
         </g>
         <g class="language details" data-language="Lua">
