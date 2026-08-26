@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="262" viewBox="0 0 480 262" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="282" viewBox="0 0 480 282" class="">
   <defs>
     <style/>
   </defs>
@@ -8,7 +8,7 @@
   <style/>
   <g transform="translate(0,0)" class="plugin-languages" data-plugin="languages">
     <g data-section="languages">
-      <svg width="100%" height="262" viewBox="0 0 480 262">
+      <svg width="100%" height="282" viewBox="0 0 480 282">
         <g transform="translate(13,9)" fill="#959da5">
           <svg viewBox="0 0 16 16" width="16" height="16" aria-hidden="true">
             <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
@@ -30,14 +30,14 @@
             </mask>
             <rect mask="url(#languages-bar-most)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             <g class="languages-progress">
-              <rect class="language-bar" mask="url(#languages-bar-most)" x="0.00" y="0" width="105.32" height="8" fill="#3572A5" data-language="Python"/>
-              <rect class="language-bar" mask="url(#languages-bar-most)" x="105.32" y="0" width="66.55" height="8" fill="#f34b7d" data-language="C++"/>
-              <rect class="language-bar" mask="url(#languages-bar-most)" x="171.87" y="0" width="53.85" height="8" fill="#3D6117" data-language="TeX"/>
-              <rect class="language-bar" mask="url(#languages-bar-most)" x="225.73" y="0" width="48.69" height="8" fill="#00ADD8" data-language="Go"/>
-              <rect class="language-bar" mask="url(#languages-bar-most)" x="274.41" y="0" width="43.95" height="8" fill="#DA5B0B" data-language="Jupyter Notebook"/>
-              <rect class="language-bar" mask="url(#languages-bar-most)" x="318.37" y="0" width="43.72" height="8" fill="#a91e50" data-language="EJS"/>
-              <rect class="language-bar" mask="url(#languages-bar-most)" x="362.08" y="0" width="42.64" height="8" fill="#89e051" data-language="Shell"/>
-              <rect class="language-bar" mask="url(#languages-bar-most)" x="404.72" y="0" width="12.01" height="8" fill="#F05138" data-language="Swift"/>
+              <rect class="language-bar" mask="url(#languages-bar-most)" x="0.00" y="0" width="105.23" height="8" fill="#3572A5" data-language="Python"/>
+              <rect class="language-bar" mask="url(#languages-bar-most)" x="105.23" y="0" width="67.85" height="8" fill="#f34b7d" data-language="C++"/>
+              <rect class="language-bar" mask="url(#languages-bar-most)" x="173.07" y="0" width="53.56" height="8" fill="#3D6117" data-language="TeX"/>
+              <rect class="language-bar" mask="url(#languages-bar-most)" x="226.64" y="0" width="48.42" height="8" fill="#00ADD8" data-language="Go"/>
+              <rect class="language-bar" mask="url(#languages-bar-most)" x="275.06" y="0" width="43.71" height="8" fill="#DA5B0B" data-language="Jupyter Notebook"/>
+              <rect class="language-bar" mask="url(#languages-bar-most)" x="318.78" y="0" width="43.48" height="8" fill="#a91e50" data-language="EJS"/>
+              <rect class="language-bar" mask="url(#languages-bar-most)" x="362.26" y="0" width="42.76" height="8" fill="#89e051" data-language="Shell"/>
+              <rect class="language-bar" mask="url(#languages-bar-most)" x="405.01" y="0" width="11.94" height="8" fill="#F05138" data-language="Swift"/>
             </g>
           </svg>
         </g>
@@ -64,7 +64,7 @@
             TeX
           </text>
           <text x="232" y="110" font-size="11" fill="#666666" text-anchor="end">
-            2.8 MB  11.7%
+            2.8 MB  11.6%
           </text>
         </g>
         <g class="language details" data-language="Jupyter Notebook">
@@ -77,7 +77,7 @@
             Jupyter Notebook
           </text>
           <text x="232" y="130" font-size="11" fill="#666666" text-anchor="end">
-            2.3 MB  9.6%
+            2.3 MB  9.5%
           </text>
         </g>
         <g class="language details" data-language="Shell">
@@ -103,7 +103,7 @@
             C++
           </text>
           <text x="472" y="90" font-size="11" fill="#666666" text-anchor="end">
-            3.5 MB  14.5%
+            3.6 MB  14.7%
           </text>
         </g>
         <g class="language details" data-language="Go">
@@ -116,7 +116,7 @@
             Go
           </text>
           <text x="472" y="110" font-size="11" fill="#666666" text-anchor="end">
-            2.5 MB  10.6%
+            2.5 MB  10.5%
           </text>
         </g>
         <g class="language details" data-language="EJS">
@@ -149,7 +149,7 @@
           Recently used languages
         </text>
         <text x="240" y="193" font-size="11" fill="#666666" text-anchor="middle">
-          activity from 97 repositories analysed over last 30 days
+          activity from 108 repositories analysed over last 30 days
         </text>
         <g transform="translate(10,207)">
           <svg class="bar" width="460" height="8" role="img" aria-label="Recently used languages distribution">
@@ -161,10 +161,11 @@
             </mask>
             <rect mask="url(#languages-bar-recent)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             <g class="languages-recent">
-              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="0.00" y="0" width="373.36" height="8" fill="#89e051" data-language="Shell"/>
-              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="373.36" y="0" width="70.48" height="8" fill="#3572A5" data-language="Python"/>
-              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="443.84" y="0" width="15.22" height="8" fill="#000080" data-language="Lua"/>
-              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="459.06" y="0" width="0.94" height="8" fill="#f1e05a" data-language="JavaScript"/>
+              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="0.00" y="0" width="249.03" height="8" fill="#89e051" data-language="Shell"/>
+              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="249.03" y="0" width="110.43" height="8" fill="#f34b7d" data-language="C++"/>
+              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="359.47" y="0" width="91.27" height="8" fill="#3572A5" data-language="Python"/>
+              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="450.74" y="0" width="8.75" height="8" fill="#000080" data-language="Lua"/>
+              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="459.49" y="0" width="0.51" height="8" fill="#f1e05a" data-language="JavaScript"/>
             </g>
           </svg>
         </g>
@@ -178,46 +179,59 @@
             Shell
           </text>
           <text x="232" y="236" font-size="11" fill="#666666" text-anchor="end">
-            3.1 kB  81.2%
-          </text>
-        </g>
-        <g class="language details" data-language="Lua">
-          <g transform="translate(8,245)">
-            <svg viewBox="0 0 16 16" width="16" height="16" aria-hidden="true">
-              <path fill="#000080" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-            </svg>
-          </g>
-          <text x="32" y="257" font-size="14" fill="#777777">
-            Lua
-          </text>
-          <text x="232" y="256" font-size="11" fill="#666666" text-anchor="end">
-            130 B  3.3%
+            3.8 kB  54.1%
           </text>
         </g>
         <g class="language details" data-language="Python">
-          <g transform="translate(248,225)">
+          <g transform="translate(8,245)">
             <svg viewBox="0 0 16 16" width="16" height="16" aria-hidden="true">
               <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
             </svg>
           </g>
-          <text x="272" y="237" font-size="14" fill="#777777">
+          <text x="32" y="257" font-size="14" fill="#777777">
             Python
           </text>
-          <text x="472" y="236" font-size="11" fill="#666666" text-anchor="end">
-            602 B  15.3%
+          <text x="232" y="256" font-size="11" fill="#666666" text-anchor="end">
+            1.4 kB  19.8%
           </text>
         </g>
         <g class="language details" data-language="JavaScript">
-          <g transform="translate(248,245)">
+          <g transform="translate(8,265)">
             <svg viewBox="0 0 16 16" width="16" height="16" aria-hidden="true">
               <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
             </svg>
           </g>
-          <text x="272" y="257" font-size="14" fill="#777777">
+          <text x="32" y="277" font-size="14" fill="#777777">
             JavaScript
           </text>
+          <text x="232" y="276" font-size="11" fill="#666666" text-anchor="end">
+            8 B  0.1%
+          </text>
+        </g>
+        <g class="language details" data-language="C++">
+          <g transform="translate(248,225)">
+            <svg viewBox="0 0 16 16" width="16" height="16" aria-hidden="true">
+              <path fill="#f34b7d" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+            </svg>
+          </g>
+          <text x="272" y="237" font-size="14" fill="#777777">
+            C++
+          </text>
+          <text x="472" y="236" font-size="11" fill="#666666" text-anchor="end">
+            1.7 kB  24.0%
+          </text>
+        </g>
+        <g class="language details" data-language="Lua">
+          <g transform="translate(248,245)">
+            <svg viewBox="0 0 16 16" width="16" height="16" aria-hidden="true">
+              <path fill="#000080" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+            </svg>
+          </g>
+          <text x="272" y="257" font-size="14" fill="#777777">
+            Lua
+          </text>
           <text x="472" y="256" font-size="11" fill="#666666" text-anchor="end">
-            8 B  0.2%
+            137 B  1.9%
           </text>
         </g>
       </svg>
