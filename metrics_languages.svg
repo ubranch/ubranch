@@ -149,7 +149,7 @@
           Recently used languages
         </text>
         <text x="240" y="193" font-size="11" fill="#666666" text-anchor="middle">
-          activity from 62 repositories analysed over last 30 days
+          activity from 66 repositories analysed over last 30 days
         </text>
         <g transform="translate(10,207)">
           <svg class="bar" width="460" height="8" role="img" aria-label="Recently used languages distribution">
@@ -161,14 +161,14 @@
             </mask>
             <rect mask="url(#languages-bar-recent)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             <g class="languages-recent">
-              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="0.00" y="0" width="338.23" height="8" fill="#e34c26" data-language="HTML"/>
-              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="338.23" y="0" width="60.38" height="8" fill="#f34b7d" data-language="C++"/>
-              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="398.61" y="0" width="21.97" height="8" fill="#663399" data-language="CSS"/>
-              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="420.58" y="0" width="14.52" height="8" fill="#3178c6" data-language="TypeScript"/>
-              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="435.10" y="0" width="13.63" height="8" fill="#3572A5" data-language="Python"/>
-              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="448.73" y="0" width="7.76" height="8" fill="#89e051" data-language="Shell"/>
-              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="456.49" y="0" width="1.89" height="8" fill="#f1e05a" data-language="JavaScript"/>
-              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="458.37" y="0" width="1.30" height="8" fill="#384d54" data-language="Dockerfile"/>
+              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="0.00" y="0" width="340.78" height="8" fill="#e34c26" data-language="HTML"/>
+              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="340.78" y="0" width="60.83" height="8" fill="#f34b7d" data-language="C++"/>
+              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="401.62" y="0" width="22.14" height="8" fill="#663399" data-language="CSS"/>
+              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="423.75" y="0" width="14.63" height="8" fill="#3178c6" data-language="TypeScript"/>
+              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="438.38" y="0" width="13.73" height="8" fill="#3572A5" data-language="Python"/>
+              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="452.11" y="0" width="4.35" height="8" fill="#89e051" data-language="Shell"/>
+              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="456.46" y="0" width="1.90" height="8" fill="#f1e05a" data-language="JavaScript"/>
+              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="458.36" y="0" width="1.31" height="8" fill="#384d54" data-language="Dockerfile"/>
             </g>
           </svg>
         </g>
@@ -182,7 +182,7 @@
             HTML
           </text>
           <text x="232" y="236" font-size="11" fill="#666666" text-anchor="end">
-            14.0 kB  73.5%
+            14.0 kB  74.1%
           </text>
         </g>
         <g class="language details" data-language="CSS">
@@ -234,7 +234,7 @@
             C++
           </text>
           <text x="472" y="236" font-size="11" fill="#666666" text-anchor="end">
-            2.5 kB  13.1%
+            2.5 kB  13.2%
           </text>
         </g>
         <g class="language details" data-language="TypeScript">
@@ -260,7 +260,7 @@
             Shell
           </text>
           <text x="472" y="276" font-size="11" fill="#666666" text-anchor="end">
-            329 B  1.7%
+            183 B  0.9%
           </text>
         </g>
         <g class="language details" data-language="Dockerfile">
