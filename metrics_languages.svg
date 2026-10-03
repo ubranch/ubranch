@@ -149,7 +149,7 @@
           Recently used languages
         </text>
         <text x="240" y="193" font-size="11" fill="#666666" text-anchor="middle">
-          activity from 121 repositories analysed over last 30 days
+          activity from 120 repositories analysed over last 30 days
         </text>
         <g transform="translate(10,207)">
           <svg class="bar" width="460" height="8" role="img" aria-label="Recently used languages distribution">
@@ -161,12 +161,12 @@
             </mask>
             <rect mask="url(#languages-bar-recent)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             <g class="languages-recent">
-              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="0.00" y="0" width="180.38" height="8" fill="#89e051" data-language="Shell"/>
-              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="180.38" y="0" width="100.56" height="8" fill="#000080" data-language="Lua"/>
-              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="280.94" y="0" width="87.17" height="8" fill="#3178c6" data-language="TypeScript"/>
-              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="368.11" y="0" width="64.59" height="8" fill="#3572A5" data-language="Python"/>
-              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="432.69" y="0" width="16.54" height="8" fill="#384d54" data-language="Dockerfile"/>
-              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="449.24" y="0" width="10.76" height="8" fill="#f1e05a" data-language="JavaScript"/>
+              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="0.00" y="0" width="157.73" height="8" fill="#89e051" data-language="Shell"/>
+              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="157.73" y="0" width="116.72" height="8" fill="#000080" data-language="Lua"/>
+              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="274.45" y="0" width="95.21" height="8" fill="#3178c6" data-language="TypeScript"/>
+              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="369.66" y="0" width="71.41" height="8" fill="#3572A5" data-language="Python"/>
+              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="441.07" y="0" width="11.76" height="8" fill="#f1e05a" data-language="JavaScript"/>
+              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="452.83" y="0" width="7.17" height="8" fill="#384d54" data-language="Dockerfile"/>
             </g>
           </svg>
         </g>
@@ -180,7 +180,7 @@
             Shell
           </text>
           <text x="232" y="236" font-size="11" fill="#666666" text-anchor="end">
-            687 B  39.2%
+            550 B  34.3%
           </text>
         </g>
         <g class="language details" data-language="TypeScript">
@@ -193,20 +193,20 @@
             TypeScript
           </text>
           <text x="232" y="256" font-size="11" fill="#666666" text-anchor="end">
-            332 B  18.9%
+            332 B  20.7%
           </text>
         </g>
-        <g class="language details" data-language="Dockerfile">
+        <g class="language details" data-language="JavaScript">
           <g transform="translate(8,265)">
             <svg viewBox="0 0 16 16" width="16" height="16" aria-hidden="true">
-              <path fill="#384d54" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+              <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
             </svg>
           </g>
           <text x="32" y="277" font-size="14" fill="#777777">
-            Dockerfile
+            JavaScript
           </text>
           <text x="232" y="276" font-size="11" fill="#666666" text-anchor="end">
-            63 B  3.6%
+            41 B  2.6%
           </text>
         </g>
         <g class="language details" data-language="Lua">
@@ -219,7 +219,7 @@
             Lua
           </text>
           <text x="472" y="236" font-size="11" fill="#666666" text-anchor="end">
-            383 B  21.9%
+            407 B  25.4%
           </text>
         </g>
         <g class="language details" data-language="Python">
@@ -232,20 +232,20 @@
             Python
           </text>
           <text x="472" y="256" font-size="11" fill="#666666" text-anchor="end">
-            246 B  14.0%
+            249 B  15.5%
           </text>
         </g>
-        <g class="language details" data-language="JavaScript">
+        <g class="language details" data-language="Dockerfile">
           <g transform="translate(248,265)">
             <svg viewBox="0 0 16 16" width="16" height="16" aria-hidden="true">
-              <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+              <path fill="#384d54" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
             </svg>
           </g>
           <text x="272" y="277" font-size="14" fill="#777777">
-            JavaScript
+            Dockerfile
           </text>
           <text x="472" y="276" font-size="11" fill="#666666" text-anchor="end">
-            41 B  2.3%
+            25 B  1.6%
           </text>
         </g>
       </svg>
