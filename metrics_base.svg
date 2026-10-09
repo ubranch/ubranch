@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="384" viewBox="0 0 480 384" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="344" viewBox="0 0 480 344" class="">
   <defs>
     <style/>
   </defs>
@@ -8,7 +8,7 @@
   <style/>
   <g transform="translate(0,0)">
     <g data-section="header">
-      <svg width="100%" height="94" viewBox="0 0 480 94">
+      <svg width="100%" height="74" viewBox="0 0 480 74">
         <defs>
           <clipPath id="header-avatar">
             <circle cx="21" cy="20" r="10"/>
@@ -35,29 +35,21 @@
           <text x="37" y="68" font-size="14" fill="#777777">
             Followed by 81 users
           </text>
-          <g transform="translate(13,76)" fill="#959da5">
-            <svg width="16" height="16" viewBox="0 0 16 16" class="octicon">
-              <path d="M2 5.5a3.5 3.5 0 1 1 5.898 2.549 5.508 5.508 0 0 1 3.034 4.084.75.75 0 1 1-1.482.235 4 4 0 0 0-7.9 0 .75.75 0 0 1-1.482-.236A5.507 5.507 0 0 1 3.102 8.05 3.493 3.493 0 0 1 2 5.5ZM11 4a3.001 3.001 0 0 1 2.22 5.018 5.01 5.01 0 0 1 2.56 3.012.749.749 0 0 1-.885.954.752.752 0 0 1-.549-.514 3.507 3.507 0 0 0-2.522-2.372.75.75 0 0 1-.574-.73v-.352a.75.75 0 0 1 .416-.672A1.5 1.5 0 0 0 11 5.5.75.75 0 0 1 11 4Zm-5.5-.5a2 2 0 1 0-.001 3.999A2 2 0 0 0 5.5 3.5Z"/>
-            </svg>
-          </g>
-          <text x="37" y="88" font-size="14" fill="#777777">
-            Following 29 users
-          </text>
           <g data-block="calendar-grid">
-            <rect class="day" fill="#9be9a8" x="253" y="38" width="11" height="11" rx="2" ry="2"/>
+            <rect class="day" fill="#ebedf0" x="253" y="38" width="11" height="11" rx="2" ry="2"/>
             <rect class="day" fill="#ebedf0" x="268" y="38" width="11" height="11" rx="2" ry="2"/>
-            <rect class="day" fill="#ebedf0" x="283" y="38" width="11" height="11" rx="2" ry="2"/>
+            <rect class="day" fill="#40c463" x="283" y="38" width="11" height="11" rx="2" ry="2"/>
             <rect class="day" fill="#40c463" x="298" y="38" width="11" height="11" rx="2" ry="2"/>
-            <rect class="day" fill="#40c463" x="313" y="38" width="11" height="11" rx="2" ry="2"/>
-            <rect class="day" fill="#216e39" x="328" y="38" width="11" height="11" rx="2" ry="2"/>
-            <rect class="day" fill="#9be9a8" x="343" y="38" width="11" height="11" rx="2" ry="2"/>
-            <rect class="day" fill="#40c463" x="358" y="38" width="11" height="11" rx="2" ry="2"/>
+            <rect class="day" fill="#216e39" x="313" y="38" width="11" height="11" rx="2" ry="2"/>
+            <rect class="day" fill="#9be9a8" x="328" y="38" width="11" height="11" rx="2" ry="2"/>
+            <rect class="day" fill="#40c463" x="343" y="38" width="11" height="11" rx="2" ry="2"/>
+            <rect class="day" fill="#9be9a8" x="358" y="38" width="11" height="11" rx="2" ry="2"/>
             <rect class="day" fill="#9be9a8" x="373" y="38" width="11" height="11" rx="2" ry="2"/>
             <rect class="day" fill="#9be9a8" x="388" y="38" width="11" height="11" rx="2" ry="2"/>
             <rect class="day" fill="#9be9a8" x="403" y="38" width="11" height="11" rx="2" ry="2"/>
-            <rect class="day" fill="#9be9a8" x="418" y="38" width="11" height="11" rx="2" ry="2"/>
-            <rect class="day" fill="#216e39" x="433" y="38" width="11" height="11" rx="2" ry="2"/>
-            <rect class="day" fill="#40c463" x="448" y="38" width="11" height="11" rx="2" ry="2"/>
+            <rect class="day" fill="#216e39" x="418" y="38" width="11" height="11" rx="2" ry="2"/>
+            <rect class="day" fill="#40c463" x="433" y="38" width="11" height="11" rx="2" ry="2"/>
+            <rect class="day" fill="#ebedf0" x="448" y="38" width="11" height="11" rx="2" ry="2"/>
           </g>
           <g transform="translate(253,56)" fill="#959da5">
             <svg width="16" height="16" viewBox="0 0 16 16" class="octicon">
@@ -71,7 +63,7 @@
       </svg>
     </g>
   </g>
-  <g transform="translate(0,94)">
+  <g transform="translate(0,74)">
     <g data-section="activity-community">
       <svg width="100%" height="128" viewBox="0 0 480 128">
         <g transform="translate(13,9)" fill="#959da5">
@@ -96,7 +88,7 @@
           </svg>
         </g>
         <text x="37" y="62" font-size="14" fill="#777777">
-          212 Pull requests reviewed
+          229 Pull requests reviewed
         </text>
         <g transform="translate(13,70)" fill="#959da5">
           <svg viewBox="0 0 16 16" width="16" height="16">
@@ -121,7 +113,7 @@
           </svg>
         </g>
         <text x="37" y="122" font-size="14" fill="#777777">
-          896 issue comments
+          904 issue comments
         </text>
         <g transform="translate(253,9)" fill="#959da5">
           <svg viewBox="0 0 16 16" width="16" height="16">
@@ -175,9 +167,9 @@
       </svg>
     </g>
   </g>
-  <g transform="translate(0,222)">
+  <g transform="translate(0,202)">
     <g data-section="repositories">
-      <svg width="100%" height="128" viewBox="0 0 480 128">
+      <svg width="100%" height="108" viewBox="0 0 480 108">
         <g transform="translate(13,9)" fill="#959da5">
           <svg viewBox="0 0 16 16" width="16" height="16">
             <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
@@ -192,7 +184,7 @@
           </svg>
         </g>
         <text x="37" y="42" font-size="14" fill="#777777">
-          Prefers MIT License license
+          Prefers MIT license
         </text>
         <g transform="translate(13,50)" fill="#959da5">
           <svg viewBox="0 0 16 16" width="16" height="16">
@@ -200,7 +192,7 @@
           </svg>
         </g>
         <text x="37" y="62" font-size="14" fill="#777777">
-          217 Releases
+          218 Releases
         </text>
         <g transform="translate(13,70)" fill="#959da5">
           <svg viewBox="0 0 16 16" width="16" height="16">
@@ -240,7 +232,7 @@
           </svg>
         </g>
         <text x="277" y="82" font-size="14" fill="#777777">
-          97 Forkers
+          96 Forkers
         </text>
         <g transform="translate(253,90)" fill="#959da5">
           <svg viewBox="0 0 16 16" width="16" height="16">
@@ -250,25 +242,17 @@
         <text x="277" y="102" font-size="14" fill="#777777">
           33 Watchers
         </text>
-        <g transform="translate(253,110)" fill="#959da5">
-          <svg viewBox="0 0 16 16" width="16" height="16">
-            <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
-          </svg>
-        </g>
-        <text x="277" y="122" font-size="14" fill="#777777">
-          2.8k views in last two weeks
-        </text>
       </svg>
     </g>
   </g>
-  <g transform="translate(0,350)">
+  <g transform="translate(0,310)">
     <g data-section="metadata">
       <svg width="100%" height="34" viewBox="0 0 480 34">
         <text x="474" y="18" font-size="10" fill="#666666" font-style="italic" text-anchor="end">
           These metrics include private contributions
         </text>
         <text x="474" y="31" font-size="10" fill="#666666" font-style="italic" text-anchor="end">
-          Last updated 2026-10-08T01:29:00Z with mjun0812/github-metrics@dev
+          Last updated 2026-10-09T01:30:23Z with mjun0812/github-metrics@v5.0.5
         </text>
       </svg>
     </g>
