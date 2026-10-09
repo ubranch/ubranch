@@ -69,7 +69,7 @@
                 flash-attention-prebuild-wheels
               </text>
             </a>
-            <text x="324" y="264" font-size="14" fill="#777777">
+            <text x="320" y="264" font-size="14" fill="#777777">
               , which provides
             </text>
             <text x="13" y="283" font-size="14" fill="#777777">
@@ -116,7 +116,7 @@
               </text>
             </a>
             <a href="https://mjunya.com/en/about/">
-              <text x="117" y="496" font-size="14" fill="#58a6ff">
+              <text x="126" y="496" font-size="14" fill="#58a6ff">
                 📝 About Me (EN)
               </text>
             </a>
