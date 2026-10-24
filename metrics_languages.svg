@@ -149,7 +149,7 @@
           Recently used languages
         </text>
         <text x="240" y="193" font-size="11" fill="#666666" text-anchor="middle">
-          estimation from 13.2 kB of code in 156 edited files across 63 commits over last 1 day
+          estimation from 14.4 kB of code in 195 edited files across 70 commits over last 2 days
         </text>
         <g transform="translate(10,207)">
           <svg class="bar" width="460" height="8" role="img" aria-label="Recently used languages distribution">
