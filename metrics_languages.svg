@@ -30,14 +30,14 @@
             </mask>
             <rect mask="url(#languages-bar-most)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             <g class="languages-progress">
-              <rect class="language-bar" mask="url(#languages-bar-most)" x="0.00" y="0" width="138.18" height="8" fill="#f34b7d" data-language="C++"/>
-              <rect class="language-bar" mask="url(#languages-bar-most)" x="138.18" y="0" width="107.30" height="8" fill="#dea584" data-language="Rust"/>
-              <rect class="language-bar" mask="url(#languages-bar-most)" x="245.49" y="0" width="91.16" height="8" fill="#3572A5" data-language="Python"/>
-              <rect class="language-bar" mask="url(#languages-bar-most)" x="336.65" y="0" width="20.81" height="8" fill="#89e051" data-language="Shell"/>
-              <rect class="language-bar" mask="url(#languages-bar-most)" x="357.45" y="0" width="20.04" height="8" fill="#3D6117" data-language="TeX"/>
-              <rect class="language-bar" mask="url(#languages-bar-most)" x="377.49" y="0" width="17.08" height="8" fill="#DA5B0B" data-language="Jupyter Notebook"/>
-              <rect class="language-bar" mask="url(#languages-bar-most)" x="394.57" y="0" width="16.27" height="8" fill="#a91e50" data-language="EJS"/>
-              <rect class="language-bar" mask="url(#languages-bar-most)" x="410.84" y="0" width="15.51" height="8" fill="#00ADD8" data-language="Go"/>
+              <rect class="language-bar" mask="url(#languages-bar-most)" x="0.00" y="0" width="133.47" height="8" fill="#f34b7d" data-language="C++"/>
+              <rect class="language-bar" mask="url(#languages-bar-most)" x="133.47" y="0" width="119.10" height="8" fill="#dea584" data-language="Rust"/>
+              <rect class="language-bar" mask="url(#languages-bar-most)" x="252.57" y="0" width="88.27" height="8" fill="#3572A5" data-language="Python"/>
+              <rect class="language-bar" mask="url(#languages-bar-most)" x="340.84" y="0" width="20.12" height="8" fill="#89e051" data-language="Shell"/>
+              <rect class="language-bar" mask="url(#languages-bar-most)" x="360.95" y="0" width="19.36" height="8" fill="#3D6117" data-language="TeX"/>
+              <rect class="language-bar" mask="url(#languages-bar-most)" x="380.31" y="0" width="16.49" height="8" fill="#DA5B0B" data-language="Jupyter Notebook"/>
+              <rect class="language-bar" mask="url(#languages-bar-most)" x="396.80" y="0" width="15.71" height="8" fill="#a91e50" data-language="EJS"/>
+              <rect class="language-bar" mask="url(#languages-bar-most)" x="412.52" y="0" width="14.98" height="8" fill="#00ADD8" data-language="Go"/>
             </g>
           </svg>
         </g>
@@ -51,7 +51,7 @@
             C++
           </text>
           <text x="232" y="90" font-size="11" fill="#666666" text-anchor="end">
-            19.4 MB  30.0%
+            19.4 MB  29.0%
           </text>
         </g>
         <g class="language details" data-language="Python">
@@ -64,7 +64,7 @@
             Python
           </text>
           <text x="232" y="110" font-size="11" fill="#666666" text-anchor="end">
-            12.8 MB  19.8%
+            12.8 MB  19.2%
           </text>
         </g>
         <g class="language details" data-language="TeX">
@@ -77,7 +77,7 @@
             TeX
           </text>
           <text x="232" y="130" font-size="11" fill="#666666" text-anchor="end">
-            2.8 MB  4.4%
+            2.8 MB  4.2%
           </text>
         </g>
         <g class="language details" data-language="EJS">
@@ -90,7 +90,7 @@
             EJS
           </text>
           <text x="232" y="150" font-size="11" fill="#666666" text-anchor="end">
-            2.3 MB  3.5%
+            2.3 MB  3.4%
           </text>
         </g>
         <g class="language details" data-language="Rust">
@@ -103,7 +103,7 @@
             Rust
           </text>
           <text x="472" y="90" font-size="11" fill="#666666" text-anchor="end">
-            15.1 MB  23.3%
+            17.3 MB  25.9%
           </text>
         </g>
         <g class="language details" data-language="Shell">
@@ -116,7 +116,7 @@
             Shell
           </text>
           <text x="472" y="110" font-size="11" fill="#666666" text-anchor="end">
-            2.9 MB  4.5%
+            2.9 MB  4.4%
           </text>
         </g>
         <g class="language details" data-language="Jupyter Notebook">
@@ -129,7 +129,7 @@
             Jupyter Notebook
           </text>
           <text x="472" y="130" font-size="11" fill="#666666" text-anchor="end">
-            2.4 MB  3.7%
+            2.4 MB  3.6%
           </text>
         </g>
         <g class="language details" data-language="Go">
@@ -142,14 +142,14 @@
             Go
           </text>
           <text x="472" y="150" font-size="11" fill="#666666" text-anchor="end">
-            2.2 MB  3.4%
+            2.2 MB  3.3%
           </text>
         </g>
         <text x="240" y="176" font-size="14" fill="#0366d6" text-anchor="middle">
           Recently used languages
         </text>
         <text x="240" y="193" font-size="11" fill="#666666" text-anchor="middle">
-          estimation from 14.4 kB of code in 195 edited files across 70 commits over last 2 days
+          estimation from 242.8 kB of code in 3481 edited files across 368 commits over last 3 days
         </text>
         <g transform="translate(10,207)">
           <svg class="bar" width="460" height="8" role="img" aria-label="Recently used languages distribution">
@@ -161,9 +161,9 @@
             </mask>
             <rect mask="url(#languages-bar-recent)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             <g class="languages-recent">
-              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="0.00" y="0" width="434.83" height="8" fill="#3572A5" data-language="Python"/>
-              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="434.83" y="0" width="16.02" height="8" fill="#89e051" data-language="Shell"/>
-              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="450.85" y="0" width="9.15" height="8" fill="#384d54" data-language="Dockerfile"/>
+              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="0.00" y="0" width="426.80" height="8" fill="#3572A5" data-language="Python"/>
+              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="426.80" y="0" width="32.25" height="8" fill="#89e051" data-language="Shell"/>
+              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="459.05" y="0" width="0.95" height="8" fill="#384d54" data-language="Dockerfile"/>
             </g>
           </svg>
         </g>
@@ -177,7 +177,7 @@
             Python
           </text>
           <text x="232" y="236" font-size="11" fill="#666666" text-anchor="end">
-            190 B  94.5%
+            900 B  92.8%
           </text>
         </g>
         <g class="language details" data-language="Dockerfile">
@@ -190,7 +190,7 @@
             Dockerfile
           </text>
           <text x="232" y="256" font-size="11" fill="#666666" text-anchor="end">
-            4 B  2.0%
+            2 B  0.2%
           </text>
         </g>
         <g class="language details" data-language="Shell">
@@ -203,7 +203,7 @@
             Shell
           </text>
           <text x="472" y="236" font-size="11" fill="#666666" text-anchor="end">
-            7 B  3.5%
+            68 B  7.0%
           </text>
         </g>
       </svg>
