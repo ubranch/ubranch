@@ -30,8 +30,8 @@
             </mask>
             <rect mask="url(#languages-bar-most)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             <g class="languages-progress">
-              <rect class="language-bar" mask="url(#languages-bar-most)" x="0.00" y="0" width="133.12" height="8" fill="#f34b7d" data-language="C++"/>
-              <rect class="language-bar" mask="url(#languages-bar-most)" x="133.12" y="0" width="119.58" height="8" fill="#dea584" data-language="Rust"/>
+              <rect class="language-bar" mask="url(#languages-bar-most)" x="0.00" y="0" width="133.13" height="8" fill="#f34b7d" data-language="C++"/>
+              <rect class="language-bar" mask="url(#languages-bar-most)" x="133.13" y="0" width="119.58" height="8" fill="#dea584" data-language="Rust"/>
               <rect class="language-bar" mask="url(#languages-bar-most)" x="252.70" y="0" width="88.16" height="8" fill="#3572A5" data-language="Python"/>
               <rect class="language-bar" mask="url(#languages-bar-most)" x="340.86" y="0" width="20.09" height="8" fill="#89e051" data-language="Shell"/>
               <rect class="language-bar" mask="url(#languages-bar-most)" x="360.95" y="0" width="19.31" height="8" fill="#3D6117" data-language="TeX"/>
@@ -149,7 +149,7 @@
           Recently used languages
         </text>
         <text x="240" y="193" font-size="11" fill="#666666" text-anchor="middle">
-          estimation from 248.1 kB of code in 4411 edited files across 558 commits over last 2 days
+          estimation from 248.1 kB of code in 4415 edited files across 565 commits over last 3 days
         </text>
         <g transform="translate(10,207)">
           <svg class="bar" width="460" height="8" role="img" aria-label="Recently used languages distribution">
