@@ -149,7 +149,7 @@
           Recently used languages
         </text>
         <text x="240" y="193" font-size="11" fill="#666666" text-anchor="middle">
-          estimation from 248.4 kB of code in 4467 edited files across 578 commits over last 5 days
+          estimation from 248.0 kB of code in 4457 edited files across 580 commits over last 6 days
         </text>
         <g transform="translate(10,207)">
           <svg class="bar" width="460" height="8" role="img" aria-label="Recently used languages distribution">
@@ -161,11 +161,11 @@
             </mask>
             <rect mask="url(#languages-bar-recent)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             <g class="languages-recent">
-              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="0.00" y="0" width="421.38" height="8" fill="#f1e05a" data-language="JavaScript"/>
-              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="421.38" y="0" width="14.23" height="8" fill="#3178c6" data-language="TypeScript"/>
-              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="435.61" y="0" width="11.69" height="8" fill="#3572A5" data-language="Python"/>
-              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="447.30" y="0" width="11.02" height="8" fill="#89e051" data-language="Shell"/>
-              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="458.31" y="0" width="1.69" height="8" fill="#000080" data-language="Lua"/>
+              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="0.00" y="0" width="423.77" height="8" fill="#f1e05a" data-language="JavaScript"/>
+              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="423.77" y="0" width="13.87" height="8" fill="#3178c6" data-language="TypeScript"/>
+              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="437.64" y="0" width="10.80" height="8" fill="#89e051" data-language="Shell"/>
+              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="448.44" y="0" width="9.87" height="8" fill="#3572A5" data-language="Python"/>
+              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="458.30" y="0" width="1.70" height="8" fill="#000080" data-language="Lua"/>
             </g>
           </svg>
         </g>
@@ -179,20 +179,20 @@
             JavaScript
           </text>
           <text x="232" y="236" font-size="11" fill="#666666" text-anchor="end">
-            40.5 kB  91.6%
+            40.5 kB  92.1%
           </text>
         </g>
-        <g class="language details" data-language="Python">
+        <g class="language details" data-language="Shell">
           <g transform="translate(8,245)">
             <svg viewBox="0 0 16 16" width="16" height="16" aria-hidden="true">
-              <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+              <path fill="#89e051" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
             </svg>
           </g>
           <text x="32" y="257" font-size="14" fill="#777777">
-            Python
+            Shell
           </text>
           <text x="232" y="256" font-size="11" fill="#666666" text-anchor="end">
-            1.1 kB  2.5%
+            1.0 kB  2.3%
           </text>
         </g>
         <g class="language details" data-language="Lua">
@@ -218,20 +218,20 @@
             TypeScript
           </text>
           <text x="472" y="236" font-size="11" fill="#666666" text-anchor="end">
-            1.4 kB  3.1%
+            1.3 kB  3.0%
           </text>
         </g>
-        <g class="language details" data-language="Shell">
+        <g class="language details" data-language="Python">
           <g transform="translate(248,245)">
             <svg viewBox="0 0 16 16" width="16" height="16" aria-hidden="true">
-              <path fill="#89e051" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+              <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
             </svg>
           </g>
           <text x="272" y="257" font-size="14" fill="#777777">
-            Shell
+            Python
           </text>
           <text x="472" y="256" font-size="11" fill="#666666" text-anchor="end">
-            1.1 kB  2.4%
+            966 B  2.1%
           </text>
         </g>
       </svg>
