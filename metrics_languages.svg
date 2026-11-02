@@ -149,7 +149,7 @@
           Recently used languages
         </text>
         <text x="240" y="193" font-size="11" fill="#666666" text-anchor="middle">
-          estimation from 203.0 kB of code in 4362 edited files across 554 commits over last 6 days
+          estimation from 205.8 kB of code in 4317 edited files across 561 commits over last 8 days
         </text>
         <g transform="translate(10,207)">
           <svg class="bar" width="460" height="8" role="img" aria-label="Recently used languages distribution">
@@ -161,11 +161,12 @@
             </mask>
             <rect mask="url(#languages-bar-recent)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             <g class="languages-recent">
-              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="0.00" y="0" width="263.91" height="8" fill="#3572A5" data-language="Python"/>
-              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="263.91" y="0" width="128.57" height="8" fill="#89e051" data-language="Shell"/>
-              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="392.48" y="0" width="51.18" height="8" fill="#000080" data-language="Lua"/>
-              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="443.66" y="0" width="14.49" height="8" fill="#3178c6" data-language="TypeScript"/>
-              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="458.15" y="0" width="1.85" height="8" fill="#f1e05a" data-language="JavaScript"/>
+              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="0.00" y="0" width="305.55" height="8" fill="#3572A5" data-language="Python"/>
+              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="305.55" y="0" width="103.03" height="8" fill="#89e051" data-language="Shell"/>
+              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="408.59" y="0" width="34.69" height="8" fill="#000080" data-language="Lua"/>
+              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="443.28" y="0" width="9.82" height="8" fill="#3178c6" data-language="TypeScript"/>
+              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="453.10" y="0" width="5.64" height="8" fill="#c7254e" data-language="jq"/>
+              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="458.75" y="0" width="1.25" height="8" fill="#f1e05a" data-language="JavaScript"/>
             </g>
           </svg>
         </g>
@@ -179,7 +180,7 @@
             Python
           </text>
           <text x="232" y="236" font-size="11" fill="#666666" text-anchor="end">
-            856 B  57.4%
+            1.4 kB  66.4%
           </text>
         </g>
         <g class="language details" data-language="Lua">
@@ -192,20 +193,20 @@
             Lua
           </text>
           <text x="232" y="256" font-size="11" fill="#666666" text-anchor="end">
-            166 B  11.1%
+            166 B  7.5%
           </text>
         </g>
-        <g class="language details" data-language="JavaScript">
+        <g class="language details" data-language="jq">
           <g transform="translate(8,265)">
             <svg viewBox="0 0 16 16" width="16" height="16" aria-hidden="true">
-              <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+              <path fill="#c7254e" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
             </svg>
           </g>
           <text x="32" y="277" font-size="14" fill="#777777">
-            JavaScript
+            jq
           </text>
           <text x="232" y="276" font-size="11" fill="#666666" text-anchor="end">
-            6 B  0.4%
+            27 B  1.2%
           </text>
         </g>
         <g class="language details" data-language="Shell">
@@ -218,7 +219,7 @@
             Shell
           </text>
           <text x="472" y="236" font-size="11" fill="#666666" text-anchor="end">
-            417 B  27.9%
+            493 B  22.4%
           </text>
         </g>
         <g class="language details" data-language="TypeScript">
@@ -231,7 +232,20 @@
             TypeScript
           </text>
           <text x="472" y="256" font-size="11" fill="#666666" text-anchor="end">
-            47 B  3.2%
+            47 B  2.1%
+          </text>
+        </g>
+        <g class="language details" data-language="JavaScript">
+          <g transform="translate(248,265)">
+            <svg viewBox="0 0 16 16" width="16" height="16" aria-hidden="true">
+              <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+            </svg>
+          </g>
+          <text x="272" y="277" font-size="14" fill="#777777">
+            JavaScript
+          </text>
+          <text x="472" y="276" font-size="11" fill="#666666" text-anchor="end">
+            6 B  0.3%
           </text>
         </g>
       </svg>
