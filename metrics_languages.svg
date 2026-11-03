@@ -30,10 +30,10 @@
             </mask>
             <rect mask="url(#languages-bar-most)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             <g class="languages-progress">
-              <rect class="language-bar" mask="url(#languages-bar-most)" x="0.00" y="0" width="133.13" height="8" fill="#f34b7d" data-language="C++"/>
-              <rect class="language-bar" mask="url(#languages-bar-most)" x="133.13" y="0" width="119.58" height="8" fill="#dea584" data-language="Rust"/>
-              <rect class="language-bar" mask="url(#languages-bar-most)" x="252.71" y="0" width="88.17" height="8" fill="#3572A5" data-language="Python"/>
-              <rect class="language-bar" mask="url(#languages-bar-most)" x="340.87" y="0" width="20.07" height="8" fill="#89e051" data-language="Shell"/>
+              <rect class="language-bar" mask="url(#languages-bar-most)" x="0.00" y="0" width="133.12" height="8" fill="#f34b7d" data-language="C++"/>
+              <rect class="language-bar" mask="url(#languages-bar-most)" x="133.12" y="0" width="119.58" height="8" fill="#dea584" data-language="Rust"/>
+              <rect class="language-bar" mask="url(#languages-bar-most)" x="252.70" y="0" width="88.17" height="8" fill="#3572A5" data-language="Python"/>
+              <rect class="language-bar" mask="url(#languages-bar-most)" x="340.87" y="0" width="20.08" height="8" fill="#89e051" data-language="Shell"/>
               <rect class="language-bar" mask="url(#languages-bar-most)" x="360.95" y="0" width="19.31" height="8" fill="#3D6117" data-language="TeX"/>
               <rect class="language-bar" mask="url(#languages-bar-most)" x="380.25" y="0" width="16.45" height="8" fill="#DA5B0B" data-language="Jupyter Notebook"/>
               <rect class="language-bar" mask="url(#languages-bar-most)" x="396.71" y="0" width="15.67" height="8" fill="#a91e50" data-language="EJS"/>
@@ -149,7 +149,7 @@
           Recently used languages
         </text>
         <text x="240" y="193" font-size="11" fill="#666666" text-anchor="middle">
-          estimation from 205.8 kB of code in 4317 edited files across 561 commits over last 8 days
+          estimation from 203.8 kB of code in 4231 edited files across 536 commits over last 9 days
         </text>
         <g transform="translate(10,207)">
           <svg class="bar" width="460" height="8" role="img" aria-label="Recently used languages distribution">
@@ -161,12 +161,12 @@
             </mask>
             <rect mask="url(#languages-bar-recent)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             <g class="languages-recent">
-              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="0.00" y="0" width="305.55" height="8" fill="#3572A5" data-language="Python"/>
-              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="305.55" y="0" width="103.03" height="8" fill="#89e051" data-language="Shell"/>
-              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="408.59" y="0" width="34.69" height="8" fill="#000080" data-language="Lua"/>
-              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="443.28" y="0" width="9.82" height="8" fill="#3178c6" data-language="TypeScript"/>
-              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="453.10" y="0" width="5.64" height="8" fill="#c7254e" data-language="jq"/>
-              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="458.75" y="0" width="1.25" height="8" fill="#f1e05a" data-language="JavaScript"/>
+              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="0.00" y="0" width="310.02" height="8" fill="#3572A5" data-language="Python"/>
+              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="310.02" y="0" width="100.52" height="8" fill="#89e051" data-language="Shell"/>
+              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="410.54" y="0" width="33.37" height="8" fill="#000080" data-language="Lua"/>
+              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="443.92" y="0" width="9.45" height="8" fill="#3178c6" data-language="TypeScript"/>
+              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="453.37" y="0" width="5.43" height="8" fill="#40d47e" data-language="JSONiq"/>
+              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="458.79" y="0" width="1.21" height="8" fill="#f1e05a" data-language="JavaScript"/>
             </g>
           </svg>
         </g>
@@ -180,7 +180,7 @@
             Python
           </text>
           <text x="232" y="236" font-size="11" fill="#666666" text-anchor="end">
-            1.4 kB  66.4%
+            1.5 kB  67.4%
           </text>
         </g>
         <g class="language details" data-language="Lua">
@@ -193,17 +193,17 @@
             Lua
           </text>
           <text x="232" y="256" font-size="11" fill="#666666" text-anchor="end">
-            166 B  7.5%
+            166 B  7.3%
           </text>
         </g>
-        <g class="language details" data-language="jq">
+        <g class="language details" data-language="JSONiq">
           <g transform="translate(8,265)">
             <svg viewBox="0 0 16 16" width="16" height="16" aria-hidden="true">
-              <path fill="#c7254e" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+              <path fill="#40d47e" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
             </svg>
           </g>
           <text x="32" y="277" font-size="14" fill="#777777">
-            jq
+            JSONiq
           </text>
           <text x="232" y="276" font-size="11" fill="#666666" text-anchor="end">
             27 B  1.2%
@@ -219,7 +219,7 @@
             Shell
           </text>
           <text x="472" y="236" font-size="11" fill="#666666" text-anchor="end">
-            493 B  22.4%
+            500 B  21.9%
           </text>
         </g>
         <g class="language details" data-language="TypeScript">
