@@ -149,7 +149,7 @@
           Recently used languages
         </text>
         <text x="240" y="193" font-size="11" fill="#666666" text-anchor="middle">
-          estimation from 16.0 kB of code in 259 edited files across 80 commits over last 3 days
+          estimation from 16.1 kB of code in 269 edited files across 89 commits over last 5 days
         </text>
         <g transform="translate(10,207)">
           <svg class="bar" width="460" height="8" role="img" aria-label="Recently used languages distribution">
@@ -161,10 +161,10 @@
             </mask>
             <rect mask="url(#languages-bar-recent)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             <g class="languages-recent">
-              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="0.00" y="0" width="323.96" height="8" fill="#3572A5" data-language="Python"/>
-              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="323.96" y="0" width="97.87" height="8" fill="#89e051" data-language="Shell"/>
-              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="421.83" y="0" width="36.21" height="8" fill="#000080" data-language="Lua"/>
-              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="458.04" y="0" width="1.96" height="8" fill="#384d54" data-language="Dockerfile"/>
+              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="0.00" y="0" width="311.30" height="8" fill="#3572A5" data-language="Python"/>
+              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="311.30" y="0" width="106.98" height="8" fill="#89e051" data-language="Shell"/>
+              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="418.28" y="0" width="39.58" height="8" fill="#000080" data-language="Lua"/>
+              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="457.86" y="0" width="2.14" height="8" fill="#384d54" data-language="Dockerfile"/>
             </g>
           </svg>
         </g>
@@ -178,7 +178,7 @@
             Python
           </text>
           <text x="232" y="236" font-size="11" fill="#666666" text-anchor="end">
-            331 B  70.4%
+            291 B  67.7%
           </text>
         </g>
         <g class="language details" data-language="Lua">
@@ -191,7 +191,7 @@
             Lua
           </text>
           <text x="232" y="256" font-size="11" fill="#666666" text-anchor="end">
-            37 B  7.9%
+            37 B  8.6%
           </text>
         </g>
         <g class="language details" data-language="Shell">
@@ -204,7 +204,7 @@
             Shell
           </text>
           <text x="472" y="236" font-size="11" fill="#666666" text-anchor="end">
-            100 B  21.3%
+            100 B  23.3%
           </text>
         </g>
         <g class="language details" data-language="Dockerfile">
@@ -217,7 +217,7 @@
             Dockerfile
           </text>
           <text x="472" y="256" font-size="11" fill="#666666" text-anchor="end">
-            2 B  0.4%
+            2 B  0.5%
           </text>
         </g>
       </svg>
