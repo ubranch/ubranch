@@ -149,7 +149,7 @@
           Recently used languages
         </text>
         <text x="240" y="193" font-size="11" fill="#666666" text-anchor="middle">
-          estimation from 17.0 kB of code in 432 edited files across 104 commits over last 5 days
+          estimation from 19.4 kB of code in 504 edited files across 105 commits over last 7 days
         </text>
         <g transform="translate(10,207)">
           <svg class="bar" width="460" height="8" role="img" aria-label="Recently used languages distribution">
@@ -161,13 +161,13 @@
             </mask>
             <rect mask="url(#languages-bar-recent)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             <g class="languages-recent">
-              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="0.00" y="0" width="265.10" height="8" fill="#3572A5" data-language="Python"/>
-              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="265.10" y="0" width="80.13" height="8" fill="#000080" data-language="Lua"/>
-              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="345.23" y="0" width="73.87" height="8" fill="#663399" data-language="CSS"/>
-              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="419.10" y="0" width="34.92" height="8" fill="#89e051" data-language="Shell"/>
-              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="454.02" y="0" width="5.33" height="8" fill="#e34c26" data-language="HTML"/>
-              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="459.35" y="0" width="0.43" height="8" fill="#f1e05a" data-language="JavaScript"/>
-              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="459.78" y="0" width="0.22" height="8" fill="#384d54" data-language="Dockerfile"/>
+              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="0.00" y="0" width="273.43" height="8" fill="#3572A5" data-language="Python"/>
+              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="273.43" y="0" width="74.41" height="8" fill="#000080" data-language="Lua"/>
+              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="347.84" y="0" width="70.95" height="8" fill="#663399" data-language="CSS"/>
+              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="418.79" y="0" width="35.61" height="8" fill="#89e051" data-language="Shell"/>
+              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="454.40" y="0" width="5.12" height="8" fill="#e34c26" data-language="HTML"/>
+              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="459.52" y="0" width="0.41" height="8" fill="#f1e05a" data-language="JavaScript"/>
+              <rect class="language-bar-recent" mask="url(#languages-bar-recent)" x="459.93" y="0" width="0.07" height="8" fill="#384d54" data-language="Dockerfile"/>
             </g>
           </svg>
         </g>
@@ -181,7 +181,7 @@
             Python
           </text>
           <text x="232" y="236" font-size="11" fill="#666666" text-anchor="end">
-            3.6 kB  57.6%
+            3.9 kB  59.4%
           </text>
         </g>
         <g class="language details" data-language="CSS">
@@ -194,7 +194,7 @@
             CSS
           </text>
           <text x="232" y="256" font-size="11" fill="#666666" text-anchor="end">
-            1.0 kB  16.1%
+            1.0 kB  15.4%
           </text>
         </g>
         <g class="language details" data-language="HTML">
@@ -207,7 +207,7 @@
             HTML
           </text>
           <text x="232" y="276" font-size="11" fill="#666666" text-anchor="end">
-            74 B  1.2%
+            74 B  1.1%
           </text>
         </g>
         <g class="language details" data-language="Dockerfile">
@@ -220,7 +220,7 @@
             Dockerfile
           </text>
           <text x="232" y="296" font-size="11" fill="#666666" text-anchor="end">
-            3 B  0.0%
+            1 B  0.0%
           </text>
         </g>
         <g class="language details" data-language="Lua">
@@ -233,7 +233,7 @@
             Lua
           </text>
           <text x="472" y="236" font-size="11" fill="#666666" text-anchor="end">
-            1.1 kB  17.4%
+            1.1 kB  16.2%
           </text>
         </g>
         <g class="language details" data-language="Shell">
@@ -246,7 +246,7 @@
             Shell
           </text>
           <text x="472" y="256" font-size="11" fill="#666666" text-anchor="end">
-            485 B  7.6%
+            515 B  7.7%
           </text>
         </g>
         <g class="language details" data-language="JavaScript">
